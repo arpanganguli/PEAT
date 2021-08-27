@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Monitoring Peatlands</name>
+	<gx:CascadingStyle kml:id="__managed_style_2E34C0B4F01CBC8A42D9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_190E6F10951CBC8A42D9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_024AE2E2171CBC8A42D9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_190E6F10951CBC8A42D9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E34C0B4F01CBC8A42D9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0633B416231CBC8A42D1">
+		<name>Outer Hebrides</name>
+		<gx:mid>/m/0b24y</gx:mid>
+		<gx:fid>0x488d0a7b337af72b:0x824ec2af735b65f7</gx:fid>
+		<LookAt>
+			<longitude>-7.019262</longitude>
+			<latitude>57.75997395</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>532.1071896547302</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024AE2E2171CBC8A42D9</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-7.0194034,57.7598918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064B25026B1CBCAA094B">
+		<name>Flow Country</name>
+		<gx:mid>/g/11j00zvjkz</gx:mid>
+		<gx:fid>0x488fd0876a15a92b:0xcbba926b3aaf7ba4</gx:fid>
+		<LookAt>
+			<longitude>-4.7479668</longitude>
+			<latitude>58.14778969999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2527.306444718469</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_024AE2E2171CBC8A42D9</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-4.747966799999999,58.14779019999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
