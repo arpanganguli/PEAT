@@ -1,5 +1,5 @@
 # PEAT
-Using machine learning to detect peatlands
+Using machine learning to detect peatlands. This a Proof of Concept (PoC).
 
 ## Links
 * [Detecting peatland drains with Object Based Image Analysis and Geoeye-1 imagery](https://cbmjournal.biomedcentral.com/articles/10.1186/s13021-017-0075-z)
