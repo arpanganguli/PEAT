@@ -15,8 +15,7 @@ import csv
 try:
     from PIL import Image
 except ImportError:
-    import Image
-import pytesseract
+    import pytesseract
 
 # read your file
 file = r'images/Outer_Hebrides_with_Grips_5.png'
